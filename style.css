@@ -1,0 +1,415 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    overflow-x: hidden;
+}
+.parent{
+    
+    background:linear-gradient(#1a150c ,#413622 ,#5d4f35, #413622, #1a150c );
+    height: 100vh;
+}
+.logo{
+    height: 50px;
+    margin-right: 80px;
+    margin-top: 30px;
+    
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+     
+    
+    
+}
+.v{
+    margin-left: 50px;
+    margin-top: 30px;
+    
+}
+.para{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 30px;
+}
+.maindiv{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 70%;
+    margin-top: 50px;
+}
+
+
+
+.brand{
+    text-align: left;
+   
+    width: 55%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+    color: white;
+    
+}
+.port{
+    text-align: center;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 200px;
+    color: white;
+    
+    
+    
+}
+.tem{
+    text-align: right;
+   
+    width: 100%;
+    margin-right: 600px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+    color: white;
+}
+.father{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100vh;
+}
+.heading{
+    text-align: center;
+    align-items: center;
+    justify-content:space-around;
+    font-family:Arial, Helvetica, sans-serif;
+   
+    
+    
+    
+}
+
+.image01{
+    height: 607px;
+    width: 100%;
+    
+}
+.image02{
+    height: 300px;
+    width: 100%;
+    
+}
+.image03{
+    height: 300px;
+    width: 100%;
+   
+}
+.childone{
+    flex: 2;
+height: 100%;
+}
+.childtwo{
+    flex: 1;
+    height: 100%;    
+    background:linear-gradient(#1a150c ,#413622 ,#5d4f35, #413622, #1a150c );
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-right: 5px;
+    margin-left: 5px;
+    color: white;
+}
+.childthree{
+    flex: 1;
+height: 100%;
+}
+
+.mother{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 78vh;
+    margin-top: 20px;
+}
+
+.my{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+.a{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+    
+    
+}
+.ipsum{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+.brother1{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    width: 50%;
+    
+    
+}
+
+.brother2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    width: 50%;
+    height: 100%;
+    background:linear-gradient(#1a150c ,#413622 ,#5d4f35, #413622, #1a150c );
+    
+}
+.img2{
+    height: 300px;
+    width: 90%;
+    
+}
+
+.title1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+
+.jpg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+}
+
+.grandpaa{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    min-height: 100vh;
+    
+}
+
+.grandson{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex: 2;
+    background:linear-gradient(#1a150c ,#413622 ,#5d4f35, #413622, #1a150c );
+    
+}
+
+.granddau{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+   
+    flex: 2;
+ 
+
+}
+
+.design{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: left;
+    width: 80%;
+    color: white;
+    margin-bottom: 30px;
+    
+}
+.wood{
+    width: 80%;
+    height: 430px;
+    
+    object-fit: cover;
+}
+.my2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   margin-top: 50px;
+   
+}
+.b{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+}
+.amet{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 40%;
+    
+    
+}
+.deco{
+    padding: 10px;
+    height: 200px;
+    width: 200px;
+    margin-top: 30px;
+}
+
+.grandmother{
+    min-height: 100vh;
+    
+    margin-bottom: 80px;
+}
+
+.grandelder{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.pres{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    
+}
+.img100{
+    height: 300px;
+    width: 100%;
+}
+
+.grandyounger{
+    flex: 1;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    height: 30vh;
+}
+
+
+.youn{
+   text-align: center;
+   align-items: center;
+   display: flex;
+   justify-content: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   margin-top: 50px;
+   
+   flex: 1;
+   height: 100%;
+   
+}
+.presen{
+    text-align: center;
+    align-items: center;
+   display: flex;
+   justify-content: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   margin-top: 50px;
+   
+   flex: 1;
+   background:linear-gradient(#1a150c ,#413622 ,#5d4f35, #413622, #1a150c );
+   color: white;
+   height: 100%;
+   
+}
+.ex{
+    width: 50%;
+   text-align: center;
+   text-shadow: 0px 0px 7px black;
+}
+.est{
+    width: 60%;
+    text-align: center;
+}
+
+.new{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+   
+    
+}
+.old{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    
+}
+.erc{
+   
+    padding: 50px;
+    width: 200px;
+    margin: 5px;
+    background:linear-gradient(#1a150c ,#413622 ,#5d4f35, #413622, #1a150c );
+    color: white;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+
+.client{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.foot{
+    flex: 2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+.null{
+    width: 70%;
+    
+    
+}
+.mill{
+    text-decoration: underline;
+}
+.magni{
+
+    border-left:dashed #413622; 
+    border-right:dashed #413622;
+}
